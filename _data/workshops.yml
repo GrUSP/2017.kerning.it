@@ -1,0 +1,40 @@
+- name: Sumner Stone
+  title: Think Write Digitize with Sumner STONE
+  image: /img/2016/ws/sumner.png
+  twitter:
+  duration: 2 days
+  when: 1st and 2nd of June 2016
+  where: "The workshop will take place at: Biblioteca Comunale di Faenza (1st Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
+  map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA/data=!4m2!3m1!1s0x132b4e21bdacf365:0x7676e3456dac65ce?sa=X&ved=0ahUKEwj89vOhguTJAhXI7xQKHQJ-ANsQ8gEIHjAA
+  anchor: sumner
+  url: ws-sumnerstone.html
+- name: Francesco Poroli
+  title: "It's only Illustration (but I like it!) with Francesco POROLI"
+  image: /img/2016/ws/poroli.png
+  twitter: francescoporoli
+  duration: 2 days
+  when: 1st and 2nd of June 2016
+  where: "The workshop will take place at: Hotel Vittoria (workshop room)<br/>Corso Giuseppe Garibaldi, 23<br> Faenza (RA)"
+  map: https://www.google.com/maps/place/Via+san+Giovanni+Bosco,+1/@44.2832168,11.8849821,16z
+  anchor: poroli
+  url: ws-francescoporoli.html
+- name: Davide Mottes
+  title: "Anatomy of a magazine with Davide MOTTES"
+  image: /img/2016/ws/davide.png
+  twitter: davidemottes
+  duration: 2 days
+  when: 1st and 2nd of June 2016
+  where: "The workshop will take place at: Biblioteca Comunale di Faenza (1st Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
+  map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA/data=!4m2!3m1!1s0x132b4e21bdacf365:0x7676e3456dac65ce?sa=X&ved=0ahUKEwj89vOhguTJAhXI7xQKHQJ-ANsQ8gEIHjAA
+  anchor: davide
+  url: ws-davidemottes.html
+- name: VecchiaStamperia
+  title: "TYPE VS TYPE: A LETTERPRESS BATTLE. Two historic workshops, a single passion for movable types"
+  image: /img/2016/ws/vecchiastamperia.png
+  twitter: vecchiastamperia
+  duration: 1 day
+  when: 2nd of June 2016
+  where: "The workshop will take place at: La vecchia stamperia<br/>Via Giulio Castellani 25<br/>Faenza (RA)"
+  map: https://www.google.com/maps/place/La+Vecchia+Stamperia+di+Damiano+Bandini/@44.284726,11.87984,16z/
+  anchor: stamperia
+  url: ws-letterpress.html
