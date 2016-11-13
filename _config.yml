@@ -4,8 +4,8 @@ permalink: /blog/:title
 title: 
 date: Jun 7-9
 year: 2017
-tickets: false
-tickets-eb: //eventbrite.com/tickets-external?eid=20227756765&ref=etckt
+tickets: true
+tickets-eb: //eventbrite.com/tickets-external?eid=28863864596&ref=etckt
 tickets-eb-link: http://kerning-2017.eventbrite.com
 speakers: false
 workshops: false
