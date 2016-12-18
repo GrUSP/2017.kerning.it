@@ -1,3 +1,5 @@
+{% assign not_announced_speakers = site.data.speakers | where:"name","tba" | size %}
+
 <div class="session">|
 {% for speaker in site.data.speakers %}
     {% if speaker.title != false %}
@@ -9,7 +11,7 @@
 {% for speaker in site.data.speakers %}
 {% if speaker.twitter %}
 <div class="session" id="{{ speaker.twitter }}">
-    <div class="speaker">
+    <div class="speaker" {% unless not_announced_speakers == 0 %} style="width:100%" {% endunless %}>
         <div class="image"><img src="{{ speaker.image }}"></div>
         <div class="info">
             <div class="name">{{ speaker.name }}</div>
@@ -20,6 +22,8 @@
             <p class="work">{{ speaker.works }}</p>
         </div>
     </div>
+    
+    {% if not_announced_speakers == 0 %}
     <div class="topic">
         <div class="title">{{ speaker.title }}</div>
         <div class="abstract">
@@ -30,6 +34,13 @@
             <p>{{ speaker.abstract }}</p>
         </div>
     </div>
+    {% endif %}
+    
 </div>
 {% endif %}
 {% endfor %}
+
+
+{% unless not_announced_speakers == 0 %}
+  {% include talks/talk-placeholder.html %}
+{% endunless %}
