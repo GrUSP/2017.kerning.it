@@ -1,9 +1,47 @@
-- name: Gerry Leonidas
+- name: Antonio Cavedoni
   hour:
-  image: img/2016/gerry.png
-  twitter: gerryleonidas
-  bio: "Gerry Leonidas teaches and researches typography and typeface design at the University of Reading, UK. He supervises MA and PhD research, and lectures widely. He runs knowledge transfer projects, consults on publication and typeface design, and reviews bodies of work. He is the vice-president of ATypI, and helps organise ICTVC, Granshan, and other conferences. He is the Director of the MA Typeface Design, and the TDi summer course; both are global reference points for type education. From this year he will be running a new hybrid MA on research in typeface design. "
-  works: You can see his latest works on <a href="http://leonidas.org/">his website</a> and follow him on <a href="https://twitter.com/gerryleonidas/">twitter</a>.
+  image: img/2017/antonio.png
+  twitter: verbosus
+  bio: "Antonio Cavedoni is a type designer, self-taught software programmer and serial researcher from Sassuolo, Italia. His background as a Web designer and an obsession with typography took him to the UK, where he graduated with a MA in Typeface Design from the University of Reading. He then spent seven years in the United States, working on fonts at Apple in California. He is now back in Italy, based in Milano, where he works on type design and lettering, researches the history of letterforms, plays guitar and gets used to living in this beautiful country once again."
+  works: You can see his latest works on <a href="http://cavedoni.com/">his website</a> and follow him on <a href="https://twitter.com/verbosus/">twitter</a>.
   title:
   abstract:
   video:
+  
+  
+  
+  
+  
+  
+  
+  
+- name: Bruno Maag and Tom Foley
+  title: "How to choose a good font"
+  image: /img/2017/ws/maag.png
+  twitter: 
+  duration: 2 days
+  when: 1st and 2nd of June 2016
+  where: "The workshop will take place at: Hotel Vittoria (workshop room)<br/>Corso Giuseppe Garibaldi, 23<br> Faenza (RA)"
+  map: https://www.google.com/maps/place/Via+san+Giovanni+Bosco,+1/@44.2832168,11.8849821,16z
+  anchor: maag
+  url: ws-maag.html
+- name: Richard Rutter
+  title: "Web design"
+  image: /img/2017/ws/richard.png
+  twitter: 
+  duration: 2 days
+  when: 1st and 2nd of June 2016
+  where: "The workshop will take place at: Biblioteca Comunale di Faenza (1st Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
+  map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA/data=!4m2!3m1!1s0x132b4e21bdacf365:0x7676e3456dac65ce?sa=X&ved=0ahUKEwj89vOhguTJAhXI7xQKHQJ-ANsQ8gEIHjAA
+  anchor: davide
+  url: ws-webdesign.html
+- name: Luca Barcellona
+  title: "Calligraphy with Luca Barcellona"
+  image: /img/2017/ws/barcellona.png
+  twitter: barcellonaluca
+  duration: 2 days
+  when: 7th and 8th of June 2017
+  where: "The workshop will take place at: Biblioteca Comunale di Faenza (1st Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
+  map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA/data=!4m2!3m1!1s0x132b4e21bdacf365:0x7676e3456dac65ce?sa=X&ved=0ahUKEwj89vOhguTJAhXI7xQKHQJ-ANsQ8gEIHjAA
+  anchor: barcellona
+  url: ws-calligraphy.html
