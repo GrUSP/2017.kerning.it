@@ -18,3 +18,13 @@
   map: https://www.google.com/maps/place/La+Vecchia+Stamperia+di+Damiano+Bandini/@44.284726,11.87984,16z/
   anchor: stamperia
   url: ws-letterpress.html
+- name: Bruno Maag and Tom Foley
+  title: "How to choose a good font with Bruno Maag and Tom Foley"
+  image: /img/2017/ws/bruno.png
+  twitter: bruno_maag
+  duration: 2 days
+  when: 7th and 8th of June 2017
+  where: "The workshop will take place at: Hotel Vittoria (workshop room)<br/>Corso Giuseppe Garibaldi, 23<br> Faenza (RA)"
+  map: https://www.google.com/maps/place/Via+san+Giovanni+Bosco,+1/@44.2832168,11.8849821,16z
+  anchor: maag
+  url: ws-fontchoosing.html
