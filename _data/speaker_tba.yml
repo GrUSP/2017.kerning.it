@@ -8,11 +8,6 @@
   abstract:
   video:
 
-
-
-
-
-
 - name: Richard Rutter
   title: "Web design"
   image: /img/2017/ws/richard.png
@@ -23,14 +18,13 @@
   map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA/data=!4m2!3m1!1s0x132b4e21bdacf365:0x7676e3456dac65ce?sa=X&ved=0ahUKEwj89vOhguTJAhXI7xQKHQJ-ANsQ8gEIHjAA
   anchor: davide
   url: ws-webdesign.html
-
 - name: Luca Barcellona
-title: "Calligraphy with Luca Barcellona"
-image: /img/2017/ws/barcellona.png
-twitter: barcellonaluca
-duration: 2 days
-when: 7th and 8th of June 2017
-where: "The workshop will take place at: Biblioteca Comunale di Faenza (1st Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
-map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA/data=!4m2!3m1!1s0x132b4e21bdacf365:0x7676e3456dac65ce?sa=X&ved=0ahUKEwj89vOhguTJAhXI7xQKHQJ-ANsQ8gEIHjAA
-anchor: barcellona
-url: ws-calligraphy.html
+  title: "Calligraphy with Luca Barcellona"
+  image: /img/2017/ws/barcellona.png
+  twitter: barcellonaluca
+  duration: 2 days
+  when: 7th and 8th of June 2017
+  where: "The workshop will take place at: Biblioteca Comunale di Faenza (1st Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
+  map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA/data=!4m2!3m1!1s0x132b4e21bdacf365:0x7676e3456dac65ce?sa=X&ved=0ahUKEwj89vOhguTJAhXI7xQKHQJ-ANsQ8gEIHjAA
+  anchor: barcellona
+  url: ws-calligraphy.html
