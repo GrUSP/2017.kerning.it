@@ -2,17 +2,21 @@ greatprimer:
 pica:
 bourgeois:
   - name: ideato
-    href: http://www.ideato.it/
+    href: http://www.ideato.it/?utm_source=kerningconf
     img: //2017.kerning.it/img/s-ideato.png
     title: Ideato - we create software and develop strategies shaping our customers' ideas
-  - name: strada
-    href: http://www.stradaioli.com/
-    img: //2017.kerning.it/img/s-stradaioli.png
-    title: Stradaioli
+  - name: stone
+    href: http://www.stonetypefoundry.com/?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-stone.png
+    title: Stone Type Foundry
   - name: ilpiac
-    href: http://www.ilpiac.com/
+    href: http://www.ilpiac.com/?utm_source=kerningconf
     img: //2017.kerning.it/img/s-ilpiac.png
     title: il Piac
+  - name: strada
+    href: http://www.stradaioli.com/?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-stradaioli.png
+    title: Stradaioli    
 brevier:
 minion:
 media:
