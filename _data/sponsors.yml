@@ -9,6 +9,10 @@ bourgeois:
     href: http://www.stonetypefoundry.com/?utm_source=kerningconf
     img: //2017.kerning.it/img/s-stone.png
     title: Stone Type Foundry
+  - name: klim
+    href: http://klim.co.nz/?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-klim.png
+    title: "The Klim Type Foundry (Klim) was founded in 2005 by type designer Kris Sowersby. Klim is based in Wellington, New Zealand and sells its typefaces directly through klim.co.nz."
   - name: ilpiac
     href: http://www.ilpiac.com/?utm_source=kerningconf
     img: //2017.kerning.it/img/s-ilpiac.png
@@ -16,7 +20,7 @@ bourgeois:
   - name: strada
     href: http://www.stradaioli.com/?utm_source=kerningconf
     img: //2017.kerning.it/img/s-stradaioli.png
-    title: Stradaioli    
+    title: Stradaioli        
 brevier:
 minion:
 media:
