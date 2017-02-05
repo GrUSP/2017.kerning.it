@@ -31,4 +31,8 @@ bourgeois:
     title: Stradaioli        
 brevier:
 minion:
+  - name: typekit
+    href: http://www.typekit.com/?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-typekit.png
+    title: Adobe Typekit
 media:
