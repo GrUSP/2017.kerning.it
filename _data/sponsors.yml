@@ -32,11 +32,15 @@ bourgeois:
   - name: strada
     href: http://www.stradaioli.com/?utm_source=kerningconf
     img: //2017.kerning.it/img/s-stradaioli.png
-    title: Stradaioli        
+    title: Stradaioli
 brevier:
 minion:
   - name: typekit
     href: http://www.typekit.com/?utm_source=kerningconf
     img: //2017.kerning.it/img/s-typekit.png
     title: Adobe Typekit
+  - name: WorksThatWork
+    href: http://worksthatwork.com?utm_source=kerningconf
+    img: //2017.kerning.it/img/s-wtw.svg
+    title: Works That Work, a magazine of unexpected creativity
 media:
