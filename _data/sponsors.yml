@@ -4,10 +4,6 @@ greatprimer:
     img: //2017.kerning.it/img/s-indiantypefoundry.png
     title: ITF is a digital type foundry, designing and distributing fine-quality fonts for Indian and Latin scripts
 pica:
-  - name: pixartprinting
-    href: http://www.pixartprinting.it/?utm_source=kerningconf
-    img: //2017.kerning.it/img/s-pixartprinting.png
-    title: Propelled By pixartprinting
   - name: hoefler
     href: http://hflr.co/v2rk8
     img: //2017.kerning.it/img/s-hoefler.png
