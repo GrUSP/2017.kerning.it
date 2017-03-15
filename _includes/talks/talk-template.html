@@ -11,7 +11,7 @@
 {% for speaker in site.data.speakers %}
 {% if speaker.twitter %}
 <div class="session" id="{{ speaker.twitter }}">
-    <div class="speaker" {% unless not_announced_speakers == 0 %} style="width:100%" {% endunless %}>
+    <div class="speaker" {% if site.talks == false %} style="width:100%" {% endif %}>
         <div class="image"><img src="{{ speaker.image }}"></div>
         <div class="info">
             <div class="name">{{ speaker.name }}</div>
@@ -22,20 +22,19 @@
             <p class="work">{{ speaker.works }}</p>
         </div>
     </div>
-    
-    {% if not_announced_speakers == 0 %}
+
+    {% if site.talks %}
     <div class="topic">
         <div class="title">{{ speaker.title }}</div>
         <div class="abstract">
 
             {{ speaker.video }}
 
-
             <p>{{ speaker.abstract }}</p>
         </div>
     </div>
     {% endif %}
-    
+
 </div>
 {% endif %}
 {% endfor %}

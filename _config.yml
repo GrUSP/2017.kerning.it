@@ -8,6 +8,7 @@ tickets: true
 tickets-eb: //eventbrite.com/tickets-external?eid=28863864596&ref=etckt
 tickets-eb-link: http://kerning-2017.eventbrite.com
 speakers: true
+talks: false
 workshops: true
 schedule: false
 cfs: true
