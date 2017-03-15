@@ -3,7 +3,7 @@
 <div class="session">|
 {% for speaker in site.data.speakers %}
     {% if speaker.title != false %}
-        <a href="#{{ speaker.twitter }}" class="sponsor-tooltip workshop-image" data-toggle="tooltip" data-placement="top" data-title="{{ speaker.title }}" data-original-title="" title="{{ speaker.title }}">{{ speaker.name }}</a> |
+        <a href="#{{ speaker.twitter }}" class="" style="font-size: 0.8em" title="{{ speaker.title }}">{{ speaker.name }}</a> |
     {% endif %}
 {% endfor %}
 </div>
