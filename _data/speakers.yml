@@ -60,7 +60,7 @@
   twitter: ultrasparky
   bio: "Dan Rhatigan works with Adobe Typekit in New York as the Senior Manager of Adobe Type. He has over 25 years of eclectic experience in various industries as a typesetter, graphic designer, typeface designer, and teacher, including several years in London and New York serving as Type Director for Monotype. He has a BFA in graphic design from Boston University, and MA in typeface design from the University of Reading in the UK, and a very tattered passport."
   works: You can see his latest works on <a href="http://ultrasparky.org/">his website</a> and follow him on <a href="http://www.twitter.com/ultrasparky">twitter</a>.
-  title: false
+  title:
   abstract:
   video:
 - name: Thomas Phinney
@@ -69,6 +69,6 @@
   twitter: ThomasPhinney
   bio: "Thomas Phinney is CEO of <a href='https://www.fontlab.com'>FontLab</a>, the font software tools company. Previously he had strategic product management roles at Adobe and Extensis. In the 2000s, Thomas was instrumental in driving the adoption of OpenType, both within Adobe and in the marketplace. He developed character set standards for Adobe, and designed Latin/Greek/Cyrillic typefaces Hypatia Sans and Cristoforo. Thomas has four patents and a medal. He also has an MS in printing/typography from RIT—where he did his thesis on technical challenges in Multiple Master font technology—and an MBA from UC Berkeley. Thomas has been on the board of ATypI since 2004."
   works: You can see his latest works on <a href="http://www.thomasphinney.com/">his website</a> and follow him on <a href="http://www.twitter.com/ThomasPhinney">twitter</a>.
-  title: false
+  title: 
   abstract:
   video:
