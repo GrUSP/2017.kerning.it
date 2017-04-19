@@ -30,6 +30,10 @@ bourgeois:
     img: //2017.kerning.it/img/s-stradaioli.png
     title: Stradaioli
 brevier:
+  - name: MyFonts
+    href: http://www.myfonts.com/?utm_source=Conference&utm_medium=KerningConference&utm_campaign=Kerning&reftag=KerningConference-2017
+    img: //2017.kerning.it/img/s-myfonts.png
+    title: MyFonts
 minion:
   - name: typekit
     href: http://www.typekit.com/?utm_source=kerningconf
