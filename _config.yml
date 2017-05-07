@@ -10,7 +10,7 @@ tickets-eb-link: http://kerning-2017.eventbrite.com
 speakers: true
 talks: true
 workshops: true
-schedule: false
+schedule: true
 cfs: true
 rdiscount:
   extensions: [smart]
