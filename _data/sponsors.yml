@@ -54,5 +54,9 @@ minion:
   - name: FontLab
     href: http://www.fontlab.com/?utm_source=kerningconf
     title: FontLab
-    img: //2017.kerning.it/img/s-fontlab.png    
+    img: //2017.kerning.it/img/s-fontlab.png
+  - name: sundayburo
+    href: http://www.sundayburo.com/?utm_source=kerningconf
+    title: Sunday Büro
+    img: //2017.kerning.it/img/s-sunday.png
 media:
