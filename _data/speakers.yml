@@ -27,15 +27,14 @@
   title: On Pacioli’s Letterforms and the Debate Between Art and Science
   abstract: "Frate Luca Pacioli da Borgo Sansepolcro, a polymath and true <em>Renaissance Man</em>, wrote a chapter of his De Divina Proportione treatise on how to construct Roman capitals with compass and ruler. Despite the 500 years that separate us, we’ll use Frate Pacioli’s work as a lens to revisit the perennial debate between technology and the liberal arts, the organic versus the synthetic, the hand versus the intellect. With no pretense of giving definitive answers, we will offer a few perspectives taken from our personal experience and from the history of letterforms, from Roman times to 20th century Italian type."
   video:
-- name: Amélie Bonet
+- name: Jan Charvát
   hour:
-  image: img/2017/amelie.png
-  twitter: ameliebonet
-  bio: "Amélie Bonet is a type designer and font engineer, based in Berlin, Germany. She developed a passion for type design with a focus on Indic scripts, during her years in Reading and London. Amélie has worked on projects involving various writing systems, such as Arabic, Bengali, Cyrillic, Devanagari, Georgian, Greek, Tamil, Thai. Her design, Nokia Pure Bengali was awarded at the Granshan competition in 2014. In late summer 2015, Amélie joined the Monotype Font Engineering team."
-  works: You can see her latest works on <a href="http://ameliebonet.com/">her website</a> and follow her on <a href="https://twitter.com/ameliebonet/">twitter</a>.
-  title: Linotype non-Latin Font Collection Revival key issues in Indic type design and production
-  abstract: "The Linotype corporation has been a witness and a player in the evolution and development of Indian type design and printing industry for almost a century. As an example, the very famous Linotype Devanagari is still nowadays in use all over India, although the typeface has not been commercially available for few decades. It shows how this design fits the reader and user expectations of what should a Devanagari typeface for long texts be; how the lack of typeface diversity narrows down visual communication performances. Having said that, lines are now moving and shifting; original Indian typefaces are released and historical Indian typefaces are revived. These are signs that the typeface industry currently thrives in India.
-After a brief overview of the script principles for Devanagari, Gujarati (and Bengali), I will present the design and technical evolution of the Linotype non-Latin Font Collection; I will then discuss the recently updated typefaces of that same collection. The last part of the presentation will attempt to imagine how could the future of Indian type design be like."
+  image: img/2017/jan.png
+  twitter: jancharvat_
+  bio: "Jan initially learned Electrical Engineering and then studied computer graphic programming at Prague University where he focused on programming applications and finished with a thesis on virtual TV studios. Before joining Monotype, Jan worked in the graphic design department of a big TV channel in Prague and lectured on design at Podebrady High School. Jan always enjoyed to create typefaces in his spare time – including developing his own python scripts. Type Design and Font Engineering became more and more his primary occupation so consequently he joined Monotype’s team of Font Engineers. When not working Jan enjoys the art of coffee making (he is a certified barista) and loves analog photography."
+  works: You can see his latest works on <a href="http://ameliebonet.com/">her website</a> and follow her on <a href="https://twitter.com/ameliebonet/">twitter</a>.
+  title: Capital additions to Georgian typography
+  abstract: "I will talk about the history of Georgian typography, todays condition and problems of users, caused by custom Georgian fonts. Recenty the Uppercase for Georgian script was accepted by Unicode and I will give you update on what was done and what will have to be done to make this work. I will also review new standards for Georgian font-engineering, which contains diacritical marks for Kartvelian languages. Beside that, we gonna look into Georgian copies of famous Monotype fonts and their design fundamentals."
   video:
 - name: Dan Reynolds
   hour:
