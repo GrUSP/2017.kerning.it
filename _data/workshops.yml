@@ -24,8 +24,8 @@
   twitter: bruno_maag
   duration: 2 days
   when: 7th and 8th of June 2017
-  where: "The workshop will take place at: Hotel Vittoria (workshop room)<br/>Corso Giuseppe Garibaldi, 23<br> Faenza (RA)"
-  map: https://www.google.com/maps/place/Via+san+Giovanni+Bosco,+1/@44.2832168,11.8849821,16z
+  where: "The workshop will take place at: Biblioteca Comunale di Faenza (Ground Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
+  map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA/data=!4m2!3m1!1s0x132b4e21bdacf365:0x7676e3456dac65ce?sa=X&ved=0ahUKEwj89vOhguTJAhXI7xQKHQJ-ANsQ8gEIHjAA
   anchor: maag
   url: ws-fontchoosing.html
 - name: Richard Rutter
@@ -34,8 +34,8 @@
   twitter: clagnut
   duration: 1 day
   when: 8th of June 2017
-  where: "The workshop will take place at: Biblioteca Comunale di Faenza (1st Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
-  map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA/data=!4m2!3m1!1s0x132b4e21bdacf365:0x7676e3456dac65ce?sa=X&ved=0ahUKEwj89vOhguTJAhXI7xQKHQJ-ANsQ8gEIHjAA
+  where: "The workshop will take place at: Palazzo Naldi / Fondazione (1st Floor) Via San Giovanni Bosco n. 1 - Faenza (RA)"
+  map: https://www.google.com/maps/place/Via+san+Giovanni+Bosco,+1/@44.2832168,11.8849821,16z
   anchor: rutter
   url: ws-webtypography.html
 - name: Luca Barcellona
@@ -44,7 +44,7 @@
   twitter: barcellonaluca
   duration: 2 days
   when: 7th and 8th of June 2017
-  where: "The workshop will take place at: Biblioteca Comunale di Faenza (1st Floor)<br/>Via Manfredi n. 14<br/>Faenza (RA)"
-  map: https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA/data=!4m2!3m1!1s0x132b4e21bdacf365:0x7676e3456dac65ce?sa=X&ved=0ahUKEwj89vOhguTJAhXI7xQKHQJ-ANsQ8gEIHjAA
+  where: "The workshop will take place at: Palazzo Naldi / Fondazione (1st Floor) Via San Giovanni Bosco n. 1 - Faenza (RA)"
+  map: https://www.google.com/maps/place/Via+san+Giovanni+Bosco,+1/@44.2832168,11.8849821,16z
   anchor: barcellona
   url: ws-calligraphy.html
