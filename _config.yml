@@ -4,7 +4,7 @@ permalink: /blog/:title
 title: Divina Proportione
 date: Jun 7-9
 year: 2017
-tickets: true
+tickets: false
 tickets-eb: //eventbrite.com/tickets-external?eid=28863864596&ref=etckt
 tickets-eb-link: http://kerning-2017.eventbrite.com
 tickets-eb-height: 400px
